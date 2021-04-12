@@ -4,7 +4,7 @@
 
 ### PKMN World
 
-This is a game about tests and causes, travelling far and wide, and exploring the power within. Where the various rank and file monsters exist in that TV show space of "more intelligent than their direct human-world comparison, but still not human-level intelligence" and the rare ones are just-as or more intelligent than humans. Which is, I realize, kind of what the movies do.
+This is a game about tests and causes, travelling far and wide, and exploring the power within. Where the various rank and file creatures exist in that TV show space of "more intelligent than their direct Earth-animal comparison, but still not trainer-level intelligence" and the rare ones are just-as or more intelligent than trainers. Which is, I realize, kind of what the movies do.
 
 In this world, Trainers don't "catch" creatures, they partner with them, travel with them, and figure out how to stop Kyogre and Groudon from fighting.
 
@@ -60,9 +60,9 @@ Five: Because no one else is going out there. Being the best there ever was does
 
 Consider the type of game you want to play. PKMN World is flexible enough to let you play pretty much any experience, the sky is the limit. The following are just examples based on existing portrayals.
 
-* The Anime Version: Trainers may not need a playbook, creatures definitely do. Players might want to play this way to match the TV Show or Movies, where the humans are there to move the story forward and have personal interactions; while the creatures actually perform all the tasks to get their humans out of a jam.
+* The Anime Version: Trainers may not need a playbook, creatures definitely do. Players might want to play this way to match the TV Show or Movies, where the trainers are there to move the story forward and have personal interactions; while the creatures actually perform all the tasks to get their trainers out of a jam.
 
-* Mystery Dungeon: There are no trainers, creatures have playbooks, and operate without human interaction. Players might want to play this way if they want to roleplay as the creatures themselves, and tell stories that don't need to focus on human problems, or treat humans and human expansion into the natural world as a threat.
+* Mystery Dungeon: There are no trainers, creatures have playbooks, and operate without trainer interaction. Players might want to play this way if they want to roleplay as the creatures themselves, and tell stories that don't need to focus on trainer problems, or treat trainers and expansion into the natural world as a threat.
 
 * Gym Leader: Trainers and creatures have playbooks, and each player controls 2 characters. Players may want to play this way if they want to emulate some of the NPC trainers from the main series games, or the manga. Where the trainer and a specific creature are bonded as adventuring partners.
 
@@ -72,7 +72,7 @@ Creature or Trainer, you come from somewhere, and that place is going to have so
 
 * Kanto Region: Kanto is untamed grassland, with a few large cities dotting the landscape. Trade and travel between cities and settlements follow mostly natural routes through forests, mountains, and caves. Creatures from Kanto lean towards the Powers of Grass, Rock, and Fire. Trainers from Kanto tend to be independent, headstrong, and always looking to prove themselves.
 
-* Johto Region: Johto is an ancient human capital. There are layers of creature and trainer structures and warrens to explore. Creatures from the Johto region tend toward Ghost, Bird, and Dragon Powers. Trainers from the region can be mysterious, close-knit, and willing to help someone in need.
+* Johto Region: Johto is an ancient trainer capital. There are layers of creature and trainer structures and warrens to explore. Creatures from the Johto region tend toward Ghost, Bird, and Dragon Powers. Trainers from the region can be mysterious, close-knit, and willing to help someone in need.
 
 ## Inspirations
 
