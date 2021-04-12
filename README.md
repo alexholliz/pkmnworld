@@ -76,6 +76,6 @@ Creature or Trainer, you come from somewhere, and that place is going to have so
 
 ## Inspirations
 
-* https://en.wikipedia.org/wiki/Monkey_King
+* https://en.wikipedia.org/wiki/Journey_to_the_West
 
 * https://en.wikipedia.org/wiki/Pok%C3%A9mon_Conquest
